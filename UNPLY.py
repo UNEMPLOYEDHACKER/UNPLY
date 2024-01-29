@@ -21,7 +21,7 @@ except:
 	print '`:::::| ::| \:| ::|~~~  ::::::|  ::|'.center(44)
 	
 	print W + ' '
-	print ('O S I F').center(44)
+	print ('F I G T').center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
@@ -54,8 +54,8 @@ def baliho():
                 print "::|_ ::| ::::::| ::|_::| ::|     ::::/".center(44)
                 print '`:::::| ::| \:| ::|~~~  ::::::|  ::|'.center(44)
 		print ' ' + W
-		print ('O S I F').center(44)
-		print (W + '     [' + G +'Open Source Information Facebook'+ W + ']')
+		print ('F I G T').center(44)
+		print (W + '     [' + G +'Facebook Information Gathering Tool'+ W + ']')
        	        print (W + '     [' + G +'FOUND US ON TG- @FALCON_SECURITY'+ W + ']')
                 print ' '
 
@@ -65,7 +65,7 @@ def show_program():
  ------------------------------------------------------
 
     Author     UNEMPLOYEDHACKER
-    Name       OSIF='Open Source Information Facebook'
+    ToolName   FIGT='Faceboom Information Gathering Tool
     Telegram   @FALCON_SECURITY
     version    1.0
     Date       30/01/2024 
