@@ -1,0 +1,9 @@
+pkg update upgrade 
+
+pkg install git python2
+
+cd UNPLY
+
+pip2 install -r requirements.txt
+
+python2 UNPLY.py
