@@ -8,7 +8,7 @@
 
      
      
-             𝙐𝙉𝙋𝙇𝙔-𝘿𝘿𝙊𝙎   
+             𝙐𝙉𝙋𝙇𝙔-𝙊𝙎𝙄𝙁   
      
        ╠═════════════════╣
 
@@ -22,8 +22,8 @@ pkg update upgrade
 
 pkg install git python2
 
-$ git clone https://Github.com/UNEMPLOYEDHACKER/UNPLY
-$ cd UNPLY
+ git clone https://Github.com/UNEMPLOYEDHACKER/UNPLY
+ cd UNPLY
 ```
 
 # [ Setup ]
@@ -34,6 +34,8 @@ pip2 install -r requirements.txt
 ```
 python2 UNPLY.py
 ```
+
+*𝙍𝙐𝙉 𝙄𝙏 𝙊𝙉 𝙋𝙔𝙏𝙃𝙊𝙉2 𝙉𝙊𝙏 𝙄𝙉 𝙋𝙔𝙏𝙃𝙊𝙉3
 * TYPE /help TO SEE ALL CMD/USAGE
 * [Warn] DONT USE VPN/PROXY WHEN USING THIS TOOL !!!
 * [Tips] BE PATEINT WHEN USING THIS TOOL !!!
