@@ -8,13 +8,14 @@
 
      
      
-             𝙐𝙉𝙋𝙇𝙔-𝙊𝙎𝙄𝙁   
+             𝙐𝙉𝙋𝙇𝙔-𝙁𝙄𝙂𝙏
+            
      
        ╠═════════════════╣
 
-# 𝙏𝙝𝙖𝙣𝙠𝙨 𝙁𝙤𝙧 𝙐𝙨𝙞𝙣𝙜 𝙊𝙪𝙧 𝙐𝙉𝙋𝙇𝙔-𝙊𝙎𝙄𝙁  𝙏𝙤𝙤𝙡
-# UNPLY-OSIF Is a ( open source information facebook )
-OSIF is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), though the data will still be easy to collect. Sensitive information about residence, date of birth, occupation, phone number and email address..
+# 𝙏𝙝𝙖𝙣𝙠𝙨 𝙁𝙤𝙧 𝙐𝙨𝙞𝙣𝙜 𝙊𝙪𝙧 𝙐𝙉𝙋𝙇𝙔-𝙁𝙄𝙂𝙏 𝙏𝙤𝙤𝙡
+# UNPLY-FIGT Is a (facebook information gathering )
+UNPLY-FIGT is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), though the data will still be easy to collect. Sensitive information about residence, date of birth, occupation, phone number and email address..
 
 # [ Installation ]
 ```
